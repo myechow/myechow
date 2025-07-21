@@ -1,0 +1,79 @@
+Statistical Analysis Plan (SAP)
+
+Study Title:
+Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure: A Structural Equation Modeling Approach Based on the Theory of Planned Behavior.
+
+1. Study Objective
+To evaluate whether exposure to anti-smoking advertisements influences adolescents’ psycho-cognitive factors, specifically attitudes, subjective norms, and perceived behavioral control, and, through them, affects behavioral intentions and current smoking behavior.
+
+2. Study Design
+•	Design Type: Cross-sectional, observational.
+•	Data Source: 2023 Monitoring the Future (MTF) Public-Use Dataset for 8th and 10th grade students.
+•	Sampling Method: Multistage stratified random sampling.
+
+3. Hypotheses
+•	Null Hypothesis (H₀):
+Anti-smoking advertisements have no direct or indirect effect on adolescents’ smoking intentions or behavior, and do not significantly influence psycho-cognitive factors such as attitudes, subjective norms, or perceived behavioral control.
+•	Alternative Hypothesis (H₁):
+Anti-smoking advertisements influence adolescents’ intentions and behavior directly and indirectly by shaping psycho-cognitive factors.
+
+4. Variables
+4.1 Latent Constructs
+Construct	Indicators	Description
+Attitudes (ATT)	att1, att2, att3	Risk perception measured using a 4-point Likert scale.
+Injunctive Norms (INJ)	inj1, inj2, inj3	Perceived peer disapproval measured on a 3-point scale.
+Descriptive Norms (DES)	des1, des2, des3	Perceptions of peer smoking prevalence and pressure.
+Perceived Behavioral Control (PBC)	pbc	Self-efficacy to resist smoking, measured with a single item.
+Intention (INT)	int	Likelihood of smoking in five years, measured on a 4-point scale.
+Advertisement Exposure (ADS)	ads	Binary indicator for exposure to anti-smoking ads.
+4.2 Observed Outcome
+•	Smoking Behavior (SMK):
+Binary indicator of cigarette uses in the past 30 days (0 = No, 1 = Yes).
+4.3 Covariates
+•	Gender (male, female).
+•	Grade level (8th grade = 0, 10th grade = 1).
+•	Race/ethnicity (White as reference category, Black, Hispanic).
+•	Parental presence (neither, father only, mother only, both parents).
+
+5. Data Preparation
+•	Recoding Software: SAS.
+•	Variables:
+o	Anti-Smoking Ad Exposure: Created from V7701 and V7702 to reflect recent ad exposure as a binary indicator.
+o	Descriptive Norms: Reverse-coded to indicate lower perceived peer smoking.
+o	Parental Presence: Created by combining V7206 and V7207.
+•	Item Classification: All ordinal indicators were treated as categorical in Mplus.
+•	Missing Data: Addressed using pairwise deletion during CFA and SEM analyses.
+
+6. Analytical Methods
+6.1 Software
+•	Platform: Mplus Version 8.9.
+•	Estimator: Weighted Least Squares with Mean and Variance (WLSMV).
+6.2 Analysis Plan
+Step 1: Descriptive Statistics
+•	Generate frequency tables for all model variables and demographic characteristics.
+Step 2: Confirmatory Factor Analysis (CFA)
+•	Evaluate the measurement model for ATT, INJ, and DES constructs.
+•	Model Fit Criteria:
+o	CFI ≥ 0.95
+o	TLI ≥ 0.95
+o	RMSEA ≤ 0.06
+o	SRMR ≤ 0.08
+•	Construct Validity Criteria:
+o	Standardized factor loadings ≥ 0.50
+o	Composite Reliability (CR) > 0.70
+o	Average Variance Extracted (AVE) > 0.50
+Step 3: Structural Equation Modeling (SEM)
+•	Estimate path coefficients for:
+o	Direct and indirect effects of ad exposure on intention and behavior.
+o	Relationships between psycho-cognitive predictors and outcomes.
+o	Associations between demographic variables and constructs.
+•	Model Fit: Reassess fit indices for the full structural model.
+•	Explained Variance (R²): Calculate the proportion of variance explained for both latent and observed variables.
+6.3 Ethical Considerations
+•	This study uses publicly available, de-identified data and does not require IRB approval.
+•	The research complies with MTF and ICPSR data use agreements.
+•	All references follow AMA 11th edition guidelines.
+•	AI was used only for editorial assistance, and results were validated independently.
+
+7. Conclusion
+This Statistical Analysis Plan outlines a theory-based, methodologically sound framework to examine how anti-smoking advertisement exposure influences adolescent smoking behavior. The use of validated constructs, robust modeling techniques, and national survey data supports the study’s goal of informing targeted public health interventions.
