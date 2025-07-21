@@ -1,0 +1,58 @@
+---
+title: "myechow"
+---
+
+# Manuscript Overview
+
+**Title**: *Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure*  
+
+**Methodology**: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior  
+
+**Dataset**: Monitoring the Future (MTF) 2023 Survey  
+
+**Sample**: ~14,000 U.S. adolescents (Grades 8 & 10)
+
+Key Findings:
+
+- ✅ Anti-smoking ads impact beliefs via attitudes, norms, and behavior control
+
+- ✅ Strong internal consistency across TPB constructs (AVE > 0.5, CR > 0.89)
+
+- ✅ SEM results show PBC is the strongest predictor of smoking intention
+
+
+---
+
+# Structural Equation Modeling
+
+- **ATT** – Attitude toward smoking  
+- **INJ** – Injunctive norm  
+- **DES** – Desire to smoke  
+- **PBC** – Perceived behavioral control  
+- **INT** – Intention  
+- **SMK** – Future smoking behavior
+
+---
+
+Defense Presentation Slides
+
+🎓 Summary of results and implications presented during thesis defense.
+
+---
+
+
+# Interactive Dashboard
+
+This dashboard explores real-time visualizations for the Impact of Anti-smoking Ad Exposure and Psycho-Cognitive Predictors Across demographic sub-populations.
+
+<iframe src="https://mye-chow.shinyapps.io/rstudio/"
+        width="100%" height="700px" frameborder="0"></iframe>
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

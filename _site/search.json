@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "myechow/index.html",
+    "href": "myechow/index.html",
+    "title": "myechow",
+    "section": "",
+    "text": "Manuscript Overview\nTitle: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)\nKey Findings:\n\n✅ Anti-smoking ads impact beliefs via attitudes, norms, and behavior control\n✅ Strong internal consistency across TPB constructs (AVE &gt; 0.5, CR &gt; 0.89)\n✅ SEM results show PBC is the strongest predictor of smoking intention\n\n\n\n\nStructural Equation Modeling\n\nATT – Attitude toward smoking\n\nINJ – Injunctive norm\n\nDES – Desire to smoke\n\nPBC – Perceived behavioral control\n\nINT – Intention\n\nSMK – Future smoking behavior\n\n\nDefense Presentation Slides\n🎓 Summary of results and implications presented during thesis defense.\n\n\n\nInteractive Dashboard\nThis dashboard explores real-time visualizations for the Impact of Anti-smoking Ad Exposure and Psycho-Cognitive Predictors Across demographic sub-populations.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "myechow",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "",
+    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
+  },
+  {
+    "objectID": "myechow/about.html",
+    "href": "myechow/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "dashboard.html#manuscript-overview",
+    "href": "dashboard.html#manuscript-overview",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "",
+    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
+  },
+  {
+    "objectID": "dashboard.html#sem-constructs",
+    "href": "dashboard.html#sem-constructs",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "SEM Constructs",
+    "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\nConstruct\nDescription\n\n\n\n\nATT\nAttitude toward smoking\n\n\nINJ\nInjunctive Norms\n\n\nDES\nDescriotive Norms\n\n\nPBC\nPerceived Behavioral Control\n\n\nINT\nIntention for Future Smoking\n\n\nSMK\nCurrent Smoking Status\n\n\nADS\nAnti-Smoking Advertisement Exposure"
+  },
+  {
+    "objectID": "dashboard.html#defense-presentation-slides",
+    "href": "dashboard.html#defense-presentation-slides",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Defense Presentation Slides",
+    "text": "Defense Presentation Slides\nSummary of results and implications presented during thesis defense.\n📄 Download Defense Slides (PDF)"
+  },
+  {
+    "objectID": "dashboard.html#interactive-dashboard",
+    "href": "dashboard.html#interactive-dashboard",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Interactive Dashboard",
+    "text": "Interactive Dashboard\nThis interactive dashboard explores the impact of anti-smoking ad exposure and predictive behavior constructs across demographic subgroups."
+  },
+  {
+    "objectID": "dashboard.html#notes",
+    "href": "dashboard.html#notes",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Notes",
+    "text": "Notes\n\nDashboard powered by R Shiny, hosted on shinyapps.io\nFull manuscript available upon request or download\n\n📄 Download Thesis Manuscript (PDF)"
+  },
+  {
+    "objectID": "dashboard.html#conceptual-model",
+    "href": "dashboard.html#conceptual-model",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Conceptual Model",
+    "text": "Conceptual Model"
+  },
+  {
+    "objectID": "dashboard.html#key-findings",
+    "href": "dashboard.html#key-findings",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke"
+  }
+]

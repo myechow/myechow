@@ -1,0 +1,14 @@
+project:
+  type: website
+
+
+website:
+  title: "Myesha C. Iqbal | Healthcare Analytics Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Dashboard"
+        file: dashboard.qmd
+      - text: "About"
+        file: about.qmd
