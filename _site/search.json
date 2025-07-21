@@ -28,13 +28,6 @@
     "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
   },
   {
-    "objectID": "myechow/about.html",
-    "href": "myechow/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "dashboard.html#manuscript-overview",
     "href": "dashboard.html#manuscript-overview",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
@@ -42,11 +35,25 @@
     "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
   },
   {
+    "objectID": "dashboard.html#key-findings",
+    "href": "dashboard.html#key-findings",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke"
+  },
+  {
     "objectID": "dashboard.html#sem-constructs",
     "href": "dashboard.html#sem-constructs",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
     "section": "SEM Constructs",
     "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\nConstruct\nDescription\n\n\n\n\nATT\nAttitude toward smoking\n\n\nINJ\nInjunctive Norms\n\n\nDES\nDescriotive Norms\n\n\nPBC\nPerceived Behavioral Control\n\n\nINT\nIntention for Future Smoking\n\n\nSMK\nCurrent Smoking Status\n\n\nADS\nAnti-Smoking Advertisement Exposure"
+  },
+  {
+    "objectID": "dashboard.html#conceptual-model",
+    "href": "dashboard.html#conceptual-model",
+    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
+    "section": "Conceptual Model",
+    "text": "Conceptual Model"
   },
   {
     "objectID": "dashboard.html#defense-presentation-slides",
@@ -70,17 +77,10 @@
     "text": "Notes\n\nDashboard powered by R Shiny, hosted on shinyapps.io\nFull manuscript available upon request or download\n\n📄 Download Thesis Manuscript (PDF)"
   },
   {
-    "objectID": "dashboard.html#conceptual-model",
-    "href": "dashboard.html#conceptual-model",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Conceptual Model",
-    "text": "Conceptual Model"
-  },
-  {
-    "objectID": "dashboard.html#key-findings",
-    "href": "dashboard.html#key-findings",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke"
+    "objectID": "myechow/about.html",
+    "href": "myechow/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
