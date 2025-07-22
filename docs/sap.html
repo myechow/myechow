@@ -8,7 +8,7 @@
 
 <meta name="author" content="MCI">
 
-<title>Structural Equation Modeling Research – Biostatistics Master’s Thesis</title>
+<title>Statistical Analysis Plan (SAP) – Biostatistics Master’s Thesis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,11 +90,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./sap.html"> 
+    <a class="nav-link active" href="./sap.html" aria-current="page"> 
 <span class="menu-text">SAP</span></a>
   </li>  
   <li class="nav-item">
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Structural Equation Modeling Research</h1>
+<h1 class="title">Statistical Analysis Plan (SAP)</h1>
 </div>
 
 
@@ -149,11 +149,164 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<hr>
-<section id="myesha-c-iqbals-webpage-for-analyzing-the-masters-thesis-research-project" class="level3">
-<h3 class="anchored" data-anchor-id="myesha-c-iqbals-webpage-for-analyzing-the-masters-thesis-research-project">Myesha C Iqbal’s Webpage for Analyzing the Master’s Thesis Research Project</h3>
-<hr>
-<p><em>This Quarto website was created in RStudio.</em></p>
+<section id="study-objective" class="level4">
+<h4 class="anchored" data-anchor-id="study-objective"><strong>1. Study Objective</strong></h4>
+<p>To evaluate whether exposure to anti-smoking advertisements influences adolescents’ psycho-cognitive factors, specifically attitudes, subjective norms, and perceived behavioral control, and, through them, affects behavioral intentions and current smoking behavior.</p>
+</section>
+<section id="study-design" class="level4">
+<h4 class="anchored" data-anchor-id="study-design"><strong>2. Study Design</strong></h4>
+<ul>
+<li><p><strong>Design Type:</strong> Cross-sectional, observational.</p></li>
+<li><p><strong>Data Source:</strong> 2023 Monitoring the Future (MTF) Public-Use Dataset for 8th and 10th grade students.</p></li>
+<li><p><strong>Sampling Method:</strong> Multistage stratified random sampling.</p></li>
+</ul>
+</section>
+<section id="hypotheses" class="level4">
+<h4 class="anchored" data-anchor-id="hypotheses"><strong>3. Hypotheses</strong></h4>
+<ul>
+<li><p><strong>Null Hypothesis (H₀):</strong><br>
+Anti-smoking advertisements have no direct or indirect effect on adolescents’ smoking intentions or behavior, and do not significantly influence psycho-cognitive factors such as attitudes, subjective norms, or perceived behavioral control.</p></li>
+<li><p><strong>Alternative Hypothesis (H₁):</strong><br>
+Anti-smoking advertisements influence adolescents’ intentions and behavior directly and indirectly by shaping psycho-cognitive factors.</p></li>
+</ul>
+</section>
+<section id="variables" class="level4">
+<h4 class="anchored" data-anchor-id="variables"><strong>4. Variables</strong></h4>
+</section>
+<section id="latent-constructs" class="level4">
+<h4 class="anchored" data-anchor-id="latent-constructs">4.1 Latent Constructs</h4>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 25%">
+<col style="width: 48%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Construct</strong></td>
+<td><strong>Indicators</strong></td>
+<td><strong>Description</strong></td>
+</tr>
+<tr class="even">
+<td>Attitudes (ATT)</td>
+<td>att1, att2, att3</td>
+<td>Risk perception measured using a 4-point Likert scale.</td>
+</tr>
+<tr class="odd">
+<td>Injunctive Norms (INJ)</td>
+<td>inj1, inj2</td>
+<td>Perceived peer disapproval measured on a 3-point scale.</td>
+</tr>
+<tr class="even">
+<td>Descriptive Norms (DES)</td>
+<td>des1, des2</td>
+<td>Perceptions of peer smoking prevalence and pressure.</td>
+</tr>
+<tr class="odd">
+<td>Perceived Behavioral Control (PBC)</td>
+<td>pbc</td>
+<td>Self-efficacy to resist smoking, measured with a single item.</td>
+</tr>
+<tr class="even">
+<td>Intention (INT)</td>
+<td>int</td>
+<td>Likelihood of smoking in five years, measured on a 4-point scale.</td>
+</tr>
+<tr class="odd">
+<td>Advertisement Exposure (ADS)</td>
+<td>ads</td>
+<td>Binary indicator for exposure to anti-smoking ads.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="observed-outcome" class="level4">
+<h4 class="anchored" data-anchor-id="observed-outcome"><strong>4.2 Observed Outcome</strong></h4>
+<ul>
+<li><strong>Smoking Behavior (SMK):</strong><br>
+Binary indicator of cigarette uses in the past 30 days (0 = No, 1 = Yes).</li>
+</ul>
+</section>
+<section id="covariates" class="level4">
+<h4 class="anchored" data-anchor-id="covariates"><strong>4.3 Covariates</strong></h4>
+<ul>
+<li><p>Gender (male, female).</p></li>
+<li><p>Grade level (8th grade = 0, 10th grade = 1).</p></li>
+<li><p>Race/ethnicity (White as reference category, Black, Hispanic).</p></li>
+<li><p>Parental presence (neither, father only, mother only, both parents).</p></li>
+</ul>
+</section>
+<section id="data-preparation" class="level4">
+<h4 class="anchored" data-anchor-id="data-preparation"><strong>5. Data Preparation</strong></h4>
+<ul>
+<li><p><strong>Recoding Software:</strong> SAS.</p></li>
+<li><p><strong>Variables:</strong></p>
+<ul>
+<li><p>Anti-Smoking Ad Exposure: Created from V7701 and V7702 to reflect recent ad exposure as a binary indicator.</p></li>
+<li><p>Descriptive Norms: Reverse-coded to indicate lower perceived peer smoking.</p></li>
+<li><p>Parental Presence: Created by combining V7206 and V7207.</p></li>
+</ul></li>
+<li><p><strong>Item Classification:</strong> All ordinal indicators were treated as categorical in Mplus.</p></li>
+<li><p><strong>Missing Data:</strong> Addressed using pairwise deletion during CFA and SEM analyses.</p></li>
+</ul>
+</section>
+<section id="analytical-methods" class="level4">
+<h4 class="anchored" data-anchor-id="analytical-methods"><strong>6. Analytical Methods</strong></h4>
+</section>
+<section id="software" class="level4">
+<h4 class="anchored" data-anchor-id="software"><strong>6.1 Software</strong></h4>
+<ul>
+<li><p><strong>Platform:</strong> Mplus Version 8.9.</p></li>
+<li><p><strong>Estimator:</strong> Weighted Least Squares with Mean and Variance (WLSMV).</p></li>
+</ul>
+</section>
+<section id="analysis-plan" class="level4">
+<h4 class="anchored" data-anchor-id="analysis-plan"><strong>6.2 Analysis Plan</strong></h4>
+<p><strong>Step 1: Descriptive Statistics</strong></p>
+<ul>
+<li>Generate frequency tables for all model variables and demographic characteristics.</li>
+</ul>
+<p><strong>Step 2: Confirmatory Factor Analysis (CFA)</strong></p>
+<ul>
+<li><p>Evaluate the measurement model for ATT, INJ, and DES constructs.</p></li>
+<li><p><strong>Model Fit Criteria:</strong></p>
+<ul>
+<li><p>CFI ≥ 0.95</p></li>
+<li><p>TLI ≥ 0.95</p></li>
+<li><p>RMSEA ≤ 0.06</p></li>
+<li><p>SRMR ≤ 0.08</p></li>
+</ul></li>
+<li><p><strong>Construct Validity Criteria:</strong></p>
+<ul>
+<li><p>Standardized factor loadings ≥ 0.50</p></li>
+<li><p>Composite Reliability (CR) &gt; 0.70</p></li>
+<li><p>Average Variance Extracted (AVE) &gt; 0.50</p></li>
+</ul></li>
+</ul>
+<p><strong>Step 3: Structural Equation Modeling (SEM)</strong></p>
+<ul>
+<li><p>Estimate path coefficients for:</p>
+<ul>
+<li><p>Direct and indirect effects of ad exposure on intention and behavior.</p></li>
+<li><p>Relationships between psycho-cognitive predictors and outcomes.</p></li>
+<li><p>Associations between demographic variables and constructs.</p></li>
+</ul></li>
+<li><p><strong>Model Fit:</strong> Reassess fit indices for the full structural model.</p></li>
+<li><p><strong>Explained Variance (R²):</strong> Calculate the proportion of variance explained for both latent and observed variables.</p></li>
+</ul>
+</section>
+<section id="ethical-considerations" class="level4">
+<h4 class="anchored" data-anchor-id="ethical-considerations"><strong>6.3 Ethical Considerations</strong></h4>
+<ul>
+<li><p>This study uses publicly available, de-identified data and does not require IRB approval.</p></li>
+<li><p>The research complies with MTF and ICPSR data use agreements.</p></li>
+<li><p>All references follow AMA 11th edition guidelines.</p></li>
+<li><p>AI was used only for editorial assistance, and results were validated independently.</p></li>
+</ul>
+</section>
+<section id="conclusion" class="level4">
+<h4 class="anchored" data-anchor-id="conclusion"><strong>7. Conclusion</strong></h4>
+<p>This Statistical Analysis Plan outlines a theory-based, methodologically sound framework to examine how anti-smoking advertisement exposure influences adolescent smoking behavior. The use of validated constructs, robust modeling techniques, and national survey data supports the study’s goal of informing targeted public health interventions.</p>
 
 
 </section>

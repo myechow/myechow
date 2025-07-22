@@ -38,7 +38,7 @@ format: html
 -   Demographic Insigths:
 
     |  |  |
-    |----|----|
+    |------------------------------------|------------------------------------|
     | **Males** have lower ATT, INT, but higher PBC and DES than females. | **Parental presence**: higher ATT, DES, and ADS. |
     | **10th Grade**: higher ATT, INT, SMK. | **8th Grade**: lower DES and PBC. |
 
@@ -86,19 +86,20 @@ This interactive dashboard explores the **impact of anti-smoking ad exposure** a
 
 ## Model Fit Indices for Confirmatory Factor Analysis
 
-|                 |                  |           |                  |
-|-----------------|------------------|-----------|------------------|
-| Fit Index       | Value            | Threshold | Interpretation   |
-| Model χ² (df)   | 1778.805 (58)    | \-        | Good Fit         |
-| CFI             | 0.978            | ≥ 0.95    | Excellent fit    |
-| TLI             | 0.959            | ≥ 0.95    | Excellent fit    |
-| RMSEA           | 0.047            | ≤ 0.05    | Excellent fit    |
-| RMSEA 90% CI    | \[0.045, 0.049\] | ≤ 0.08    | Excellent fit    |
-| SRMR            | 0.084            | ≤ 0.08    | Acceptable fit   |
+|               |                  |           |                |
+|---------------|------------------|-----------|----------------|
+| Fit Index     | Value            | Threshold | Interpretation |
+| Model χ² (df) | 1778.805 (58)    | \-        | Good Fit       |
+| CFI           | 0.978            | ≥ 0.95    | Excellent fit  |
+| TLI           | 0.959            | ≥ 0.95    | Excellent fit  |
+| RMSEA         | 0.047            | ≤ 0.05    | Excellent fit  |
+| RMSEA 90% CI  | \[0.045, 0.049\] | ≤ 0.08    | Excellent fit  |
+| SRMR          | 0.084            | ≤ 0.08    | Acceptable fit |
 
 ------------------------------------------------------------------------
+
 ## Notes
 
 -   Dashboard powered by `RStudio`, hosted on [shinyapps.io](https://www.shinyapps.io) and Quarto website.
 -   Full Manuscript: 📄 [Download Thesis Manuscript (PDF)](manuscript.pdf)
--   Complete Results: Download the Results from Multivariate Statistical Analysis
+-   Complete Results: [Download the Results from Multivariate Statistical Analysis (Excel)](results.xlsx)

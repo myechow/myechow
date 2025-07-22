@@ -9,7 +9,7 @@ format: html
 ## Latent and Observed Constructs with their Indicators and Survey Questions
 
 |  |  |
-|:------------------------:|:--------------------------------------------:|
+|:------------------------:|:-------------------------------------------------------:|
 | ***Constructs*** | ***Survey Questions*** |
 | **Attitudes** | **Risk Perceptions** |
 | att1 | How much do people risk harming themselves physically and in other ways when they smoke one or more packs of cigarettes per day? |
@@ -40,7 +40,7 @@ format: html
 ## Latent and Observed Constructs with their Indicators and Response Scale
 
 |  |  |
-|:-------------------------:|:--------------------------------------------:|
+|:-------------------------:|:-------------------------------------------:|
 | ***Constructs*** | ***Survey Response Scale*** |
 | **Attitudes** | **Risk Perceptions** |
 | att1 | 1="No Risk" 2="Slight Risk" 3="Moderate Risk" 4="Great Risk" |

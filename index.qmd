@@ -1,6 +1,7 @@
 ---
 title: "Structural Equation Modeling Research"
 author: "MCI"
+format: html
 ---
 
 ------------------------------------------------------------------------
