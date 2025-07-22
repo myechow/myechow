@@ -1,0 +1,104 @@
+---
+title: "Biostatistics Master's Thesis by Myesha C Iqbal"
+author: "MCI"
+format: html
+---
+
+## Manuscript Overview
+
+**Title**: *Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure*\
+**Methodology**: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\
+**Dataset**: Monitoring the Future (MTF) 2023 Survey\
+**Sample**: \~14,000 U.S. adolescents (Grades 8 & 10)
+
+------------------------------------------------------------------------
+
+## Key Findings
+
+-   Anti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control
+
+-   High internal consistency across TPB constructs (AVE \> 0.50, CR \> 0.89)
+
+-   PBC emerged as the strongest predictor of intention to smoke
+
+-   Strong Internal Consistency for all Latent Constructs (psychometrically strong and have great internal alignment).
+
+    -   Attitudes (ATT): CR = 0.93, AVE = 0.82.
+    -   Injunctive Norms (INJ): CR = 0.94, AVE = 0.59.
+    -   Descriptive Norms (DES): CR = 0.89, AVE = 0.53.
+
+-   ADS → INT: Unexpected negative β = –0.283
+
+    -   Adolescents may exhibit message resistance or psychological reactance when they reject academic content perceived as controlling or become desensitized due to repeated exposure.
+
+-   PBC → SMK: Unexpected positive β = 0.556
+
+    -   Adolescents often overestimate their ability to resist smoking, resulting in overconfidence or cognitive dissonance.
+
+-   Demographic Insigths:
+
+    |  |  |
+    |----|----|
+    | **Males** have lower ATT, INT, but higher PBC and DES than females. | **Parental presence**: higher ATT, DES, and ADS. |
+    | **10th Grade**: higher ATT, INT, SMK. | **8th Grade**: lower DES and PBC. |
+
+------------------------------------------------------------------------
+
+## SEM Constructs
+
+The following psycho-cognitive variables were modeled using SEM:
+
+| Construct | Description                         |
+|-----------|-------------------------------------|
+| **ATT**   | Attitude toward smoking             |
+| **INJ**   | Injunctive Norms                    |
+| **DES**   | Descriptive Norms                   |
+| **PBC**   | Perceived Behavioral Control        |
+| **INT**   | Intention for Future Smoking        |
+| **SMK**   | Current Smoking Status              |
+| **ADS**   | Anti-Smoking Advertisement Exposure |
+
+------------------------------------------------------------------------
+
+## Conceptual Model
+
+![](images/sem_model.gif)
+
+------------------------------------------------------------------------
+
+## Defense Presentation Slides
+
+Summary of results and implications presented during thesis defense.
+
+📄 [Download Defense Slides (PDF)](defense-presentation.pdf)
+
+------------------------------------------------------------------------
+
+## Interactive Dashboard
+
+This interactive dashboard explores the **impact of anti-smoking ad exposure** and **predictive behavior constructs** across demographic subgroups.
+
+<iframe src="https://mye-chow.shinyapps.io/rstudio/" width="100%" height="700px" frameborder="0">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+## Model Fit Indices for Confirmatory Factor Analysis
+
+|                 |                  |           |                  |
+|-----------------|------------------|-----------|------------------|
+| Fit Index       | Value            | Threshold | Interpretation   |
+| Model χ² (df)   | 1778.805 (58)    | \-        | Good Fit         |
+| CFI             | 0.978            | ≥ 0.95    | Excellent fit    |
+| TLI             | 0.959            | ≥ 0.95    | Excellent fit    |
+| RMSEA           | 0.047            | ≤ 0.05    | Excellent fit    |
+| RMSEA 90% CI    | \[0.045, 0.049\] | ≤ 0.08    | Excellent fit    |
+| SRMR            | 0.084            | ≤ 0.08    | Acceptable fit   |
+
+------------------------------------------------------------------------
+## Notes
+
+-   Dashboard powered by `RStudio`, hosted on [shinyapps.io](https://www.shinyapps.io) and Quarto website.
+-   Full Manuscript: 📄 [Download Thesis Manuscript (PDF)](manuscript.pdf)
+-   Complete Results: Download the Results from Multivariate Statistical Analysis

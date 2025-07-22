@@ -1,0 +1,71 @@
+---
+title: "Codebook"
+author: "MCI"
+format: html
+---
+
+------------------------------------------------------------------------
+
+## Latent and Observed Constructs with their Indicators and Survey Questions
+
+|  |  |
+|:------------------------:|:--------------------------------------------:|
+| ***Constructs*** | ***Survey Questions*** |
+| **Attitudes** | **Risk Perceptions** |
+| att1 | How much do people risk harming themselves physically and in other ways when they smoke one or more packs of cigarettes per day? |
+| att2 | How much do people risk harming themselves physically and in other ways when they use any smokeless tobacco regularly? |
+| att3 | How much do people risk harming themselves physically and in other ways when they smoke one to five cigarettes per day? |
+| **Injunctive Norms** | **Perceived Peer Disapproval of Smoking** |
+| inj1 | How do you think your close friends would feel about you smoking one or more packs of cigarettes per day? |
+| inj2 | How do you think your close friends would feel about you smoking cigarettes occasionally? |
+| **Descriptive Norms** | **Perceptions of Peers Smoking** |
+| des1 | How many of your friends would you estimate smoke cigarettes? |
+| des2 | How many of your friends would you estimate use smokeless cigarettes? |
+| **Perceived Behavioral Control**  | **Self-Control** |
+| pbc | Would you consider trying tobacco if one of your closest friends offered it to you? |
+| **Behavioral Intention** | **Intent to Refrain from Future Smoking** |
+| int | Do you think you will be smoking cigarettes five years from now? |
+| **Anti-Smoking Ad Exposure** |   |
+| ads | Have you seen or read about anti-smoking ads recently? (TV, radio, Billboards, newspapers, or magazines) |
+| **Behavior: Smoking** |   |
+| smk | Have you smoked cigarettes in the past 30 days? |
+| **Demographics (Control)** |   |
+| plh | Is either your father or mother living in the same household as you? |
+| gender | How do you identify yourself? |
+| race | What is your racial/ ethnic background? |
+| grade | Which grade are you in? |
+
+------------------------------------------------------------------------
+
+## Latent and Observed Constructs with their Indicators and Response Scale
+
+|  |  |
+|:-------------------------:|:--------------------------------------------:|
+| ***Constructs*** | ***Survey Response Scale*** |
+| **Attitudes** | **Risk Perceptions** |
+| att1 | 1="No Risk" 2="Slight Risk" 3="Moderate Risk" 4="Great Risk" |
+| att2 | 1="No Risk" 2="Slight Risk" 3="Moderate Risk" 4="Great Risk" |
+| att3 | 1="No Risk" 2="Slight Risk" 3="Moderate Risk" 4="Great Risk" |
+| **Injunctive Norms** | **Perceived Peer Disapproval of Smoking** |
+| inj1 | 1="Not Disapprove" 2="Disapprove" 3="Strongly Disapprove" |
+| inj2 | 1="Not Disapprove" 2="Disapprove" 3="Strongly Disapprove" |
+| **Descriptive Norms** | **Perceptions of Peers Smoking** |
+| des1 | 1="All" 2="Most" 3="Some" 4="A Few" 5="None" |
+| des2 | 1="All" 2="Most" 3="Some" 4="A Few" 5="None" |
+| **Perceived Behavioral Control** | **Self-Control** |
+| pbc | 1="Definitely yes" 2="Probably yes" 3="Probably not" 4="Definitely not" |
+| **Behavioral Intention** | **Intend to Refrain from Future Smoking** |
+| int | 1="I definitely will" 2="I probably will" 3="I probably will not" 4="I definitely will not" |
+| **Anti-Smoking Ad Exposure** |  |
+| ads | 1="No", 2="Yes" |
+| **Behavior: Smoking** |  |
+| smk | 0= No, 1= Yes |
+| **Demographics (Control)** |  |
+| plh | 0= No, 1= Father only, 2= Mother only, 3= Both |
+| gender | 1="Male" 2="Female" |
+| race | 1="Black or African American" , 2="White (Caucasian)", 3=Hispanic. |
+| grade | 0= Eghth, 1= Tenth |
+
+------------------------------------------------------------------------
+
+-   Codebook: [Download Codebook for the Thesis (Excel)](Codebook_Cigarette.xlsx)

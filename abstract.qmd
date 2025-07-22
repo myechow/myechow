@@ -1,0 +1,25 @@
+---
+title: "Abstract"
+author: "MCI"
+format: html
+---
+
+### Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure: A Structural Equation Modeling Approach Based on the Theory of Planned Behavior.
+
+#### **By *Myesha Choudhury Iqbal***
+
+## Introduction
+
+The prevalence of cigarette smoking among adolescents in the U.S. is the lowest in any other past years, yet more than 8.1% still reported using tobacco products. Despite a downward trend in recent years, approximately 472,000 middle school and 729,000 high school students reported current cigarette use, highlighting the need for ongoing prevention initiatives. Utilizing the Theory of Planned Behavior, this study evaluates the impact of exposure to anti-smoking advertisements on adolescents' psycho-cognitive factors—specifically attitudes, social norms, perceived control, intentions, and smoking behavior. The findings aim to inform individuals about more effective and accessible public health interventions as part of the "smoke-free future" initiative.
+
+## Methods
+
+A cross-sectional analysis was conducted using 2023 Monitoring the Future (MTF) survey data, a nationally representative sample of 8th and 10th graders.4 Structural Equation Modeling (SEM) was used to test relationships derived from the Theory of Planned Behavior, examining how anti-smoking ad exposure and psycho-cognitive factors predict current smoking behavior and intentions while adjusting for demographic variables.
+
+## Results
+
+Ad exposure showed minimal direct effects on psycho-cognitive predictors of smoking. Instead, adolescents' risk perceptions toward tobacco use, perceived peer disapproval, estimate of peer smoking, and confidence in resisting smoking were stronger predictors of both current behavior and future intentions. Demographic factors, including parental presence, race, gender, and grade, significantly influenced adolescents' smoking-related perceptions and behaviors.
+
+## Conclusion
+
+Psycho-cognitive factors are more influential than anti-smoking ads in predicting adolescents' smoking behavior. The findings emphasized the significance of involving peer and family influences in prevention strategies. SEM highlights the complex behavioral pathways involved, offering evidence-based recommendations for strengthening early, family-centered interventions to promote a smoke-free future generation.

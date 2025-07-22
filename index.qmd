@@ -1,7 +1,12 @@
 ---
-title: "myechow"
+title: "Structural Equation Modeling Research"
+author: "MCI"
 ---
 
-This is a Quarto website.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Myesha C Iqbal's Webpage for Analyzing the Master's Thesis Research Project
+
+------------------------------------------------------------------------
+
+*This Quarto website was created in RStudio.*

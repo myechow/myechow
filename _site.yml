@@ -3,12 +3,16 @@ project:
 
 
 website:
-  title: "Myesha C. Iqbal | Healthcare Analytics Portfolio"
+  title: "Myesha C. Iqbal | Biostatistics Master's Thesis"
   navbar:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Dashboard"
-        file: dashboard.qmd
-      - text: "About"
-        file: about.qmd
+      - text: "SAP"
+        file: sap.qmd
+      - text: "Thesis"
+        file: thesis.qmd
+      - text: "Codebook"
+        file: codebook.qmd
+      - text: "Abstract"
+        file: abstract.qmd
