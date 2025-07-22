@@ -16,3 +16,5 @@ website:
         text: Codebook
       - href: abstract.html
         text: Abstract
+publish:
+  provider: gh-pages
