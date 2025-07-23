@@ -16,5 +16,9 @@ website:
         text: Codebook
       - href: abstract.html
         text: Abstract
+format:
+  html:
+    theme: flatly
+    css: styles.css
 publish:
   provider: gh-pages

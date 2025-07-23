@@ -8,6 +8,8 @@ format: html
 
 To evaluate whether exposure to anti-smoking advertisements influences adolescents’ psycho-cognitive factors, specifically attitudes, subjective norms, and perceived behavioral control, and, through them, affects behavioral intentions and current smoking behavior.
 
+------------------------------------------------------------------------
+
 #### **2. Study Design**
 
 -   **Design Type:** Cross-sectional, observational.
@@ -15,6 +17,8 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 -   **Data Source:** 2023 Monitoring the Future (MTF) Public-Use Dataset for 8th and 10th grade students.
 
 -   **Sampling Method:** Multistage stratified random sampling.
+
+------------------------------------------------------------------------
 
 #### **3. Hypotheses**
 
@@ -24,12 +28,14 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 -   **Alternative Hypothesis (H₁):**\
     Anti-smoking advertisements influence adolescents’ intentions and behavior directly and indirectly by shaping psycho-cognitive factors.
 
+------------------------------------------------------------------------
+
 #### **4. Variables**
 
 #### 4.1 Latent Constructs
 
 |  |  |  |
-|-------------------|------------------|-----------------------------------|
+|----|----|----|
 | **Construct** | **Indicators** | **Description** |
 | Attitudes (ATT) | att1, att2, att3 | Risk perception measured using a 4-point Likert scale. |
 | Injunctive Norms (INJ) | inj1, inj2 | Perceived peer disapproval measured on a 3-point scale. |
@@ -38,12 +44,12 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 | Intention (INT) | int | Likelihood of smoking in five years, measured on a 4-point scale. |
 | Advertisement Exposure (ADS) | ads | Binary indicator for exposure to anti-smoking ads. |
 
-#### **4.2 Observed Outcome**
+#### 4.2 Observed Outcome
 
 -   **Smoking Behavior (SMK):**\
     Binary indicator of cigarette uses in the past 30 days (0 = No, 1 = Yes).
 
-#### **4.3 Covariates**
+#### 4.3 Covariates
 
 -   Gender (male, female).
 
@@ -52,6 +58,8 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 -   Race/ethnicity (White as reference category, Black, Hispanic).
 
 -   Parental presence (neither, father only, mother only, both parents).
+
+------------------------------------------------------------------------
 
 #### **5. Data Preparation**
 
@@ -69,9 +77,11 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 
 -   **Missing Data:** Addressed using pairwise deletion during CFA and SEM analyses.
 
+------------------------------------------------------------------------
+
 #### **6. Analytical Methods**
 
-#### **6.1 Software**
+#### 6.1 Software
 
 -   **Platform:** Mplus Version 8.9.
 
@@ -119,7 +129,7 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 
 -   **Explained Variance (R²):** Calculate the proportion of variance explained for both latent and observed variables.
 
-#### **6.3 Ethical Considerations**
+#### 6.3 Ethical Considerations
 
 -   This study uses publicly available, de-identified data and does not require IRB approval.
 
@@ -128,6 +138,8 @@ To evaluate whether exposure to anti-smoking advertisements influences adolescen
 -   All references follow AMA 11th edition guidelines.
 
 -   AI was used only for editorial assistance, and results were validated independently.
+
+------------------------------------------------------------------------
 
 #### **7. Conclusion**
 

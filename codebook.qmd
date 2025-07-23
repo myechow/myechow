@@ -6,10 +6,13 @@ format: html
 
 ------------------------------------------------------------------------
 
-## Latent and Observed Constructs with their Indicators and Survey Questions
+::: {style="text-align: center;"}
+## **Latent and Observed Constructs with their Indicators and Survey Questions**
+:::
 
+::: {style="text-align: center;"}
 |  |  |
-|:------------------------:|:-------------------------------------------------------:|
+|:-----------------------:|:---------------------------------------------:|
 | ***Constructs*** | ***Survey Questions*** |
 | **Attitudes** | **Risk Perceptions** |
 | att1 | How much do people risk harming themselves physically and in other ways when they smoke one or more packs of cigarettes per day? |
@@ -34,11 +37,15 @@ format: html
 | gender | How do you identify yourself? |
 | race | What is your racial/ ethnic background? |
 | grade | Which grade are you in? |
+:::
 
 ------------------------------------------------------------------------
 
+::: {style="text-align: center;"}
 ## Latent and Observed Constructs with their Indicators and Response Scale
+:::
 
+::: {style="text-align: center;"}
 |  |  |
 |:-------------------------:|:-------------------------------------------:|
 | ***Constructs*** | ***Survey Response Scale*** |
@@ -65,6 +72,7 @@ format: html
 | gender | 1="Male" 2="Female" |
 | race | 1="Black or African American" , 2="White (Caucasian)", 3=Hispanic. |
 | grade | 0= Eghth, 1= Tenth |
+:::
 
 ------------------------------------------------------------------------
 
