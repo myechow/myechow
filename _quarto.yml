@@ -10,12 +10,14 @@ website:
         text: Home
       - href: sap.html
         text: SAP
+      - href: abstract.html
+        text: Abstract
       - href: thesis.html
         text: Thesis
       - href: codebook.html
         text: Codebook
-      - href: abstract.html
-        text: Abstract
+      - href: summary.html
+        text: Summary
 format:
   html:
     theme: flatly

@@ -10,9 +10,11 @@ website:
         file: index.qmd
       - text: "SAP"
         file: sap.qmd
+      - text: "Abstract"
+        file: abstract.qmd
       - text: "Thesis"
         file: thesis.qmd
       - text: "Codebook"
         file: codebook.qmd
-      - text: "Abstract"
-        file: abstract.qmd
+      - text: "Summary"
+        file: summary.qmd

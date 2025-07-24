@@ -1,0 +1,40 @@
+---
+title: "summary"
+author: "MCI"
+format: docx
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+## Leveraging Structural Equation Modeling to Guide Targeted Interventions in Youth Tobacco Use
+:::
+
+Adolescent smoking prevention remains a cornerstone of public health, particularly as shifting norms, targeted marketing, and access to vaping products have reshaped risk exposure for youth. In my Master of Public Health thesis at Georgia State University, I applied Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior (TPB) to predict future smoking behavior among 8th and 10th graders using nationally representative data from the 2023 Monitoring the Future (MTF) study.
+
+SEM enabled a comprehensive view of how behavioral constructs—attitudes toward smoking, injunctive norms, desire, perceived behavioral control (PBC), and behavioral intention—interact to influence actual smoking behavior. Among these, perceived behavioral control and injunctive norms emerged as the most statistically significant protective factors against the initiation of smoking.
+
+These findings offer critical insights for real-world public health strategy: rather than treating youth smoking as solely an individual choice, interventions must be designed to shift the social environment and empower behavioral control. This means focusing not only on individual beliefs but also on peer dynamics, the messaging of authority figures, and perceived social approval or disapproval.
+
+### Strategic Implications for Public Health Systems
+
+To move from model to strategy, I developed a systems-oriented prevention framework built on the SEM findings:
+
+1\. Peer-Led Interventions: Given the significance of injunctive norms, peer ambassadors and youth influencers can play a transformative role in changing social perceptions about smoking. Public health departments can collaborate with school systems and youth-based organizations to pilot these models.
+
+2\. Family & School Engagement: Enhancing adolescents' perceived behavioral control involves reinforcing messages through consistent adult role modeling and support. Integrating brief intervention modules in school curricula, coupled with parent-focused communication tools, could increase the perceived ability to resist peer pressure.
+
+3\. Media Optimization: While exposure to anti-smoking ads was present in the model, the findings suggest that message resonance and source credibility matter more than frequency alone. This calls for targeted public health communication campaigns co-designed with youth, using digital platforms and storytelling that reflect their lived experience.
+
+4\. Screening and Targeting: SEM-informed tools can be used by health departments and school counselors to identify at-risk youth based on predictive indicators. This predictive modeling approach—scalable and low-cost—can guide early interventions without requiring clinical diagnosis or intensive resources.
+
+5\. Policy Advocacy: Data-backed evidence on the predictive power of social norms and behavioral control supports policy levers such as smoke-free zones near schools, age restrictions, and regulation of targeted tobacco marketing. Local and state-level policy efforts should integrate behavioral insights from SEM models to prioritize equity and sustainability.
+
+### Broader Application to Systems-Level Change
+
+The model's utility extends beyond tobacco use. SEM frameworks can be adapted to address issues such as youth mental health, vaccine uptake, sexual health behaviors, and chronic disease prevention. By identifying the strongest behavioral levers, public health professionals can design precision interventions that are not only effective but also equitable and impactful.
+
+In line with the de Beaumont Foundation's mission to strengthen public health systems, improve communication, and support practical, data-driven tools, this approach embodies the future of targeted prevention. It leverages academic rigor, systems thinking, and cross-sector partnership which hallmarks of modern that impact public health practice.
+
+------------------------------------------------------------------------
