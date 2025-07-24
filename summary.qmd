@@ -1,8 +1,7 @@
 ---
 title: "summary"
 author: "MCI"
-format: docx
-editor: visual
+format: html
 ---
 
 ------------------------------------------------------------------------
