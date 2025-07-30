@@ -38,29 +38,27 @@ format: html
 
 #### *Demographic Insigths (Associations):*
 
-+-------------------------------------------------------+-----------------------------------------------+
-| **Parental Presence** (vs. No Parents Cohabitating):  | **Males** (vs. females):                      |
-|                                                       |                                               |
-| -   Higher Exposure to Anti-Smoking Ads.              | -   Lower Risk Perceptions of Using Tobacco   |
-|                                                       |                                               |
-|                                                       | -   Lower Prevalence of Peers Using Tobacco   |
-+-------------------------------------------------------+-----------------------------------------------+
-| **Black Adolescents** (vs. White Adolescents):        | **Grade level** (10th compared to 8th):       |
-|                                                       |                                               |
-| -   Lower Risk Perceptions of Using Tobacco.          | -   Higher Risk Perceptions of Using Tobacco. |
-|                                                       |                                               |
-| -   Lower Prevalence of Peers Using Tobacco           | -   Higher Prevalence of Peers Using Tobacco  |
-|                                                       |                                               |
-| -   Lower Intention to Not Smoke for 5 Years          | -   Higher Intention to Not Smoke for 5 Years |
-|                                                       |                                               |
-| -   Higher Confidence in Resisting Smoking.           | -   Higher Smoking Status                     |
-|                                                       |                                               |
-| **Hispanic Adolescents** (vs. White Adolescents):     | -   Lower Peer Disapproval of Smoking.        |
-|                                                       |                                               |
-| -   Lower Risk Perceptions of Using Tobacco.          |                                               |
-|                                                       |                                               |
-| -   Lower Smoking Status.                             |                                               |
-+-------------------------------------------------------+-----------------------------------------------+
++------------------------------------------------------+-------------------------------------------------------------------------------------+
+| **Parental Presence** (vs. No Parents Cohabitating): | **Males** (vs. females):                                                            |
+|                                                      |                                                                                     |
+| -   Higher Exposure to Anti-Smoking Ads.             | -   Lower Risk Perceptions of Using Tobacco                                         |
+|                                                      |                                                                                     |
+| **Black Adolescents** (vs. White Adolescents):       | -   Lower Prevalence of Peers Using Tobacco **Grade level** (10th compared to 8th): |
+|                                                      |                                                                                     |
+| -   Lower Risk Perceptions of Using Tobacco.         | -   Higher Risk Perceptions of Using Tobacco.                                       |
+|                                                      |                                                                                     |
+| -   Lower Prevalence of Peers Using Tobacco          | -   Higher Prevalence of Peers Using Tobacco                                        |
+|                                                      |                                                                                     |
+| -   Lower Intention to Not Smoke for 5 Years         | -   Higher Intention to Not Smoke for 5 Years                                       |
+|                                                      |                                                                                     |
+| -   Higher Confidence in Resisting Smoking.          | -   Higher Smoking Status                                                           |
+|                                                      |                                                                                     |
+| **Hispanic Adolescents** (vs. White Adolescents):    | -   Lower Peer Disapproval of Smoking.                                              |
+|                                                      |                                                                                     |
+| -   Lower Risk Perceptions of Using Tobacco.         |                                                                                     |
+|                                                      |                                                                                     |
+| -   Lower Smoking Status.                            |                                                                                     |
++------------------------------------------------------+-------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -68,23 +66,15 @@ format: html
 
 The following psycho-cognitive variables were modeled using SEM:
 
-+-----------+------------------+-----------------------------------------+
 | Construct | Items            | Description                             |
-+===========+==================+=========================================+
+|-----------|------------------|-----------------------------------------|
 | **ATT**   | att1, att2, att3 | Risk Perceptions of Using Tobacco       |
-+-----------+------------------+-----------------------------------------+
 | **INJ**   | inj1, inj2       | Peer Disapproval of Smoking             |
-+-----------+------------------+-----------------------------------------+
 | **DES**   | des1, des2       | Prevalence of Peers Using Tobacco       |
-+-----------+------------------+-----------------------------------------+
 | **PBC**   | pbc              | Confidence in Resisting Smoking         |
-+-----------+------------------+-----------------------------------------+
 | **INT**   | int              | Intention to Not Smoke in 5 Years       |
-+-----------+------------------+-----------------------------------------+
 | **SMK**   | smk              | Smoking Status                          |
-+-----------+------------------+-----------------------------------------+
 | **ADS**   | ads              | Exposure to Anti-Smoking Advertisements |
-+-----------+------------------+-----------------------------------------+
 
 ------------------------------------------------------------------------
 
