@@ -19,7 +19,7 @@ format: html
 
 -   High internal consistency across TPB constructs (AVE \> 0.50, CR \> 0.89)
 
--   PBC emerged as the strongest predictor of intention to smoke
+-   Confidence in Resisting Smoking emerged as the strongest predictor for Intention to Not Smoke for 5 Years (β = 0.817)
 
 -   Strong Internal Consistency for all Latent Constructs (psychometrically strong and have great internal alignment).
 
@@ -27,20 +27,40 @@ format: html
     -   Injunctive Norms (INJ): CR = 0.94, AVE = 0.59.
     -   Descriptive Norms (DES): CR = 0.89, AVE = 0.53.
 
--   ADS → INT: Unexpected negative β = –0.283
+-   Exposure to Anti-Smoking Ads→ Intention to Not Smoke in 5 Years: Unexpected negative β = -0.253
 
+    -   Expected was greater exposure to anti-smoking advertisements is associated with a lower intention to not smoke for the next 5 years.
     -   Adolescents may exhibit message resistance or psychological reactance when they reject academic content perceived as controlling or become desensitized due to repeated exposure.
 
--   PBC → SMK: Unexpected positive β = 0.556
+-   Confidence in Resisting Smoking → Smoking status: Unexpected positive β = 0.738
 
     -   Adolescents often overestimate their ability to resist smoking, resulting in overconfidence or cognitive dissonance.
 
--   Demographic Insigths:
+#### *Demographic Insigths (Associations):*
 
-    |  |  |
-    |------------------------------------|------------------------------------|
-    | **Males** have lower ATT, INT, but higher PBC and DES than females. | **Parental presence**: higher ATT, DES, and ADS. |
-    | **10th Grade**: higher ATT, INT, SMK. | **8th Grade**: lower DES and PBC. |
++-------------------------------------------------------+-----------------------------------------------+
+| **Parental Presence** (vs. No Parents Cohabitating):  | **Males** (vs. females):                      |
+|                                                       |                                               |
+| -   Higher Exposure to Anti-Smoking Ads.              | -   Lower Risk Perceptions of Using Tobacco   |
+|                                                       |                                               |
+|                                                       | -   Lower Prevalence of Peers Using Tobacco   |
++-------------------------------------------------------+-----------------------------------------------+
+| **Black Adolescents** (vs. White Adolescents):        | **Grade level** (10th compared to 8th):       |
+|                                                       |                                               |
+| -   Lower Risk Perceptions of Using Tobacco.          | -   Higher Risk Perceptions of Using Tobacco. |
+|                                                       |                                               |
+| -   Lower Prevalence of Peers Using Tobacco           | -   Higher Prevalence of Peers Using Tobacco  |
+|                                                       |                                               |
+| -   Lower Intention to Not Smoke for 5 Years          | -   Higher Intention to Not Smoke for 5 Years |
+|                                                       |                                               |
+| -   Higher Confidence in Resisting Smoking.           | -   Higher Smoking Status                     |
+|                                                       |                                               |
+| **Hispanic Adolescents** (vs. White Adolescents):     | -   Lower Peer Disapproval of Smoking.        |
+|                                                       |                                               |
+| -   Lower Risk Perceptions of Using Tobacco.          |                                               |
+|                                                       |                                               |
+| -   Lower Smoking Status.                             |                                               |
++-------------------------------------------------------+-----------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -48,19 +68,33 @@ format: html
 
 The following psycho-cognitive variables were modeled using SEM:
 
-| Construct | Description                         |
-|-----------|-------------------------------------|
-| **ATT**   | Attitude toward smoking             |
-| **INJ**   | Injunctive Norms                    |
-| **DES**   | Descriptive Norms                   |
-| **PBC**   | Perceived Behavioral Control        |
-| **INT**   | Intention for Future Smoking        |
-| **SMK**   | Current Smoking Status              |
-| **ADS**   | Anti-Smoking Advertisement Exposure |
++-----------+------------------+-----------------------------------------+
+| Construct | Items            | Description                             |
++===========+==================+=========================================+
+| **ATT**   | att1, att2, att3 | Risk Perceptions of Using Tobacco       |
++-----------+------------------+-----------------------------------------+
+| **INJ**   | inj1, inj2       | Peer Disapproval of Smoking             |
++-----------+------------------+-----------------------------------------+
+| **DES**   | des1, des2       | Prevalence of Peers Using Tobacco       |
++-----------+------------------+-----------------------------------------+
+| **PBC**   | pbc              | Confidence in Resisting Smoking         |
++-----------+------------------+-----------------------------------------+
+| **INT**   | int              | Intention to Not Smoke in 5 Years       |
++-----------+------------------+-----------------------------------------+
+| **SMK**   | smk              | Smoking Status                          |
++-----------+------------------+-----------------------------------------+
+| **ADS**   | ads              | Exposure to Anti-Smoking Advertisements |
++-----------+------------------+-----------------------------------------+
 
 ------------------------------------------------------------------------
 
-## Conceptual Model
+## Theoretical Modeling
+
+### Conceptual Model
+
+![](images/clipboard-2365762977.png)
+
+### Hypothesized Model
 
 ![](images/sem_model.gif)
 
@@ -86,15 +120,15 @@ This interactive dashboard explores the **impact of anti-smoking ad exposure** a
 
 ## Model Fit Indices for Confirmatory Factor Analysis
 
-|               |                  |           |                |
-|---------------|------------------|-----------|----------------|
-| Fit Index     | Value            | Threshold | Interpretation |
-| Model χ² (df) | 1778.805 (58)    | \-        | Good Fit       |
-| CFI           | 0.978            | ≥ 0.95    | Excellent fit  |
-| TLI           | 0.959            | ≥ 0.95    | Excellent fit  |
-| RMSEA         | 0.047            | ≤ 0.05    | Excellent fit  |
-| RMSEA 90% CI  | \[0.045, 0.049\] | ≤ 0.08    | Excellent fit  |
-| SRMR          | 0.084            | ≤ 0.08    | Acceptable fit |
+|                        |                      |           |                |
+|------------------------|----------------------|-----------|----------------|
+| Fit Index              | Value                | Threshold | Interpretation |
+| Model χ² (df, p-value) | 1086.447 (58, 0.000) | \-        | Good Fit       |
+| CFI                    | 0.975                | ≥ 0.95    | Excellent fit  |
+| TLI                    | 0.952                | ≥ 0.95    | Excellent fit  |
+| RMSEA                  | 0.036                | ≤ 0.05    | Excellent fit  |
+| RMSEA 90% CI           | \[0.034, 0.038\]     | ≤ 0.08    | Excellent fit  |
+| SRMR                   | 0.084                | ≤ 0.08    | Acceptable fit |
 
 ------------------------------------------------------------------------
 

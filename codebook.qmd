@@ -57,8 +57,8 @@ format: html
 | inj1 | 1="Not Disapprove" 2="Disapprove" 3="Strongly Disapprove" |
 | inj2 | 1="Not Disapprove" 2="Disapprove" 3="Strongly Disapprove" |
 | **Descriptive Norms** | **Perceptions of Peers Smoking** |
-| des1 | 1="All" 2="Most" 3="Some" 4="A Few" 5="None" |
-| des2 | 1="All" 2="Most" 3="Some" 4="A Few" 5="None" |
+| des1 | 1="None" 2="A Few" 3="Some" 4="Most" 5="All" |
+| des2 | 1="None" 2="A Few" 3="Some" 4="Most" 5="All" |
 | **Perceived Behavioral Control** | **Self-Control** |
 | pbc | 1="Definitely yes" 2="Probably yes" 3="Probably not" 4="Definitely not" |
 | **Behavioral Intention** | **Intend to Refrain from Future Smoking** |
