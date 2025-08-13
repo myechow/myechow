@@ -1,222 +1,5 @@
 [
   {
-    "objectID": "myechow/index.html",
-    "href": "myechow/index.html",
-    "title": "myechow",
-    "section": "",
-    "text": "Manuscript Overview\nTitle: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)\nKey Findings:\n\n✅ Anti-smoking ads impact beliefs via attitudes, norms, and behavior control\n✅ Strong internal consistency across TPB constructs (AVE &gt; 0.5, CR &gt; 0.89)\n✅ SEM results show PBC is the strongest predictor of smoking intention\n\n\n\n\nStructural Equation Modeling\n\nATT – Attitude toward smoking\n\nINJ – Injunctive norm\n\nDES – Desire to smoke\n\nPBC – Perceived behavioral control\n\nINT – Intention\n\nSMK – Future smoking behavior\n\n\nDefense Presentation Slides\n🎓 Summary of results and implications presented during thesis defense.\n\n\n\nInteractive Dashboard\nThis dashboard explores real-time visualizations for the Impact of Anti-smoking Ad Exposure and Psycho-Cognitive Predictors Across demographic sub-populations.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Structural Equation Modeling Research",
-    "section": "",
-    "text": "Myesha C Iqbal’s Webpage for Analyzing the Master’s Thesis Research Project\n\nThis Quarto website was created in RStudio."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
-  },
-  {
-    "objectID": "dashboard.html#manuscript-overview",
-    "href": "dashboard.html#manuscript-overview",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
-  },
-  {
-    "objectID": "dashboard.html#key-findings",
-    "href": "dashboard.html#key-findings",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke"
-  },
-  {
-    "objectID": "dashboard.html#sem-constructs",
-    "href": "dashboard.html#sem-constructs",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "SEM Constructs",
-    "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\nConstruct\nDescription\n\n\n\n\nATT\nAttitude toward smoking\n\n\nINJ\nInjunctive Norms\n\n\nDES\nDescriptive Norms\n\n\nPBC\nPerceived Behavioral Control\n\n\nINT\nIntention for Future Smoking\n\n\nSMK\nCurrent Smoking Status\n\n\nADS\nAnti-Smoking Advertisement Exposure"
-  },
-  {
-    "objectID": "dashboard.html#conceptual-model",
-    "href": "dashboard.html#conceptual-model",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Conceptual Model",
-    "text": "Conceptual Model"
-  },
-  {
-    "objectID": "dashboard.html#defense-presentation-slides",
-    "href": "dashboard.html#defense-presentation-slides",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Defense Presentation Slides",
-    "text": "Defense Presentation Slides\nSummary of results and implications presented during thesis defense.\n📄 Download Defense Slides (PDF)"
-  },
-  {
-    "objectID": "dashboard.html#interactive-dashboard",
-    "href": "dashboard.html#interactive-dashboard",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Interactive Dashboard",
-    "text": "Interactive Dashboard\nThis interactive dashboard explores the impact of anti-smoking ad exposure and predictive behavior constructs across demographic subgroups."
-  },
-  {
-    "objectID": "dashboard.html#notes",
-    "href": "dashboard.html#notes",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Notes",
-    "text": "Notes\n\nDashboard powered by RStudio, hosted on shinyapps.io and Quarto website.\nFull Manuscript: 📄 Download Thesis Manuscript (PDF)\nResults: Download the Results from Multivariate Statistical Analysis\nCodebook: Download Codebook for the Thesis"
-  },
-  {
-    "objectID": "myechow/about.html",
-    "href": "myechow/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html#introduction",
-    "href": "about.html#introduction",
-    "title": "Abstract",
-    "section": "Introduction",
-    "text": "Introduction\nThe prevalence of cigarette smoking among adolescents in the U.S. is the lowest in any other past years, yet more than 8.1% still reported using tobacco products. Despite a downward trend in recent years, approximately 472,000 middle school and 729,000 high school students reported current cigarette use, highlighting the need for ongoing prevention initiatives. Utilizing the Theory of Planned Behavior, this study evaluates the impact of exposure to anti-smoking advertisements on adolescents’ psycho-cognitive factors—specifically attitudes, social norms, perceived control, intentions, and smoking behavior. The findings aim to inform individuals about more effective and accessible public health interventions as part of the “smoke-free future” initiative."
-  },
-  {
-    "objectID": "about.html#methods",
-    "href": "about.html#methods",
-    "title": "Abstract",
-    "section": "Methods",
-    "text": "Methods\nA cross-sectional analysis was conducted using 2023 Monitoring the Future (MTF) survey data, a nationally representative sample of 8th and 10th graders.4 Structural Equation Modeling (SEM) was used to test relationships derived from the Theory of Planned Behavior, examining how anti-smoking ad exposure and psycho-cognitive factors predict current smoking behavior and intentions while adjusting for demographic variables."
-  },
-  {
-    "objectID": "about.html#results",
-    "href": "about.html#results",
-    "title": "Abstract",
-    "section": "Results",
-    "text": "Results\nAd exposure showed minimal direct effects on psycho-cognitive predictors of smoking. Instead, adolescents’ risk perceptions toward tobacco use, perceived peer disapproval, estimate of peer smoking, and confidence in resisting smoking were stronger predictors of both current behavior and future intentions. Demographic factors, including parental presence, race, gender, and grade, significantly influenced adolescents’ smoking-related perceptions and behaviors."
-  },
-  {
-    "objectID": "about.html#conclusion",
-    "href": "about.html#conclusion",
-    "title": "Abstract",
-    "section": "Conclusion",
-    "text": "Conclusion\nPsycho-cognitive factors are more influential than anti-smoking ads in predicting adolescents’ smoking behavior. The findings emphasized the significance of involving peer and family influences in prevention strategies. SEM highlights the complex behavioral pathways involved, offering evidence-based recommendations for strengthening early, family-centered interventions to promote a smoke-free future generation."
-  },
-  {
-    "objectID": "Thesis.html",
-    "href": "Thesis.html",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
-  },
-  {
-    "objectID": "Thesis.html#manuscript-overview",
-    "href": "Thesis.html#manuscript-overview",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\nMethodology: Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior\nDataset: Monitoring the Future (MTF) 2023 Survey\nSample: ~14,000 U.S. adolescents (Grades 8 & 10)"
-  },
-  {
-    "objectID": "Thesis.html#key-findings",
-    "href": "Thesis.html#key-findings",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke\nStrong Internal Consistency for all Latent Constructs (psychometrically strong and have great internal alignment).\n\nAttitudes (ATT): CR = 0.93, AVE = 0.82.\nInjunctive Norms (INJ): CR = 0.94, AVE = 0.59.\nDescriptive Norms (DES): CR = 0.89, AVE = 0.53.\n\nADS → INT: Unexpected negative β = –0.283\n\nAdolescents may exhibit message resistance or psychological reactance when they reject academic content perceived as controlling or become desensitized due to repeated exposure.\n\nPBC → SMK: Unexpected positive β = 0.556\n\nAdolescents often overestimate their ability to resist smoking, resulting in overconfidence or cognitive dissonance.\n\nDemographic Insigths:\n\n\n\n\n\n\n\nMales have lower ATT, INT, but higher PBC and DES than females.\nParental presence: higher ATT, DES, and ADS.\n\n\n10th Grade: higher ATT, INT, SMK.\n8th Grade: lower DES and PBC."
-  },
-  {
-    "objectID": "Thesis.html#sem-constructs",
-    "href": "Thesis.html#sem-constructs",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "SEM Constructs",
-    "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\nConstruct\nDescription\n\n\n\n\nATT\nAttitude toward smoking\n\n\nINJ\nInjunctive Norms\n\n\nDES\nDescriptive Norms\n\n\nPBC\nPerceived Behavioral Control\n\n\nINT\nIntention for Future Smoking\n\n\nSMK\nCurrent Smoking Status\n\n\nADS\nAnti-Smoking Advertisement Exposure"
-  },
-  {
-    "objectID": "Thesis.html#conceptual-model",
-    "href": "Thesis.html#conceptual-model",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Conceptual Model",
-    "text": "Conceptual Model"
-  },
-  {
-    "objectID": "Thesis.html#defense-presentation-slides",
-    "href": "Thesis.html#defense-presentation-slides",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Defense Presentation Slides",
-    "text": "Defense Presentation Slides\nSummary of results and implications presented during thesis defense.\n📄 Download Defense Slides (PDF)"
-  },
-  {
-    "objectID": "Thesis.html#interactive-dashboard",
-    "href": "Thesis.html#interactive-dashboard",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Interactive Dashboard",
-    "text": "Interactive Dashboard\nThis interactive dashboard explores the impact of anti-smoking ad exposure and predictive behavior constructs across demographic subgroups."
-  },
-  {
-    "objectID": "Thesis.html#notes",
-    "href": "Thesis.html#notes",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Notes",
-    "text": "Notes\n\nDashboard powered by RStudio, hosted on shinyapps.io and Quarto website.\nFull Manuscript: 📄 Download Thesis Manuscript (PDF)\nComplete Results: Download the Results from Multivariate Statistical Analysis"
-  },
-  {
-    "objectID": "results.html",
-    "href": "results.html",
-    "title": "Results",
-    "section": "",
-    "text": "Fit Index\nValue\nThreshold\nInterpretation\n\n\nModel χ² (df)\n1778.805 (58)\n-\nGood Fit\n\n\nCFI\n0.978\n≥ 0.95\nExcellent fit\n\n\nTLI\n0.959\n≥ 0.95\nExcellent fit\n\n\nRMSEA\n0.047\n≤ 0.05\nExcellent fit\n\n\nRMSEA 90% CI\n[0.045, 0.049]\n≤ 0.08\nExcellent fit\n\n\nSRMR\n0.084\n≤ 0.08\nAcceptable fit"
-  },
-  {
-    "objectID": "results.html#model-fit-indices-for-confirmatory-factor-analysis",
-    "href": "results.html#model-fit-indices-for-confirmatory-factor-analysis",
-    "title": "Results",
-    "section": "",
-    "text": "Fit Index\nValue\nThreshold\nInterpretation\n\n\nModel χ² (df)\n1778.805 (58)\n-\nGood Fit\n\n\nCFI\n0.978\n≥ 0.95\nExcellent fit\n\n\nTLI\n0.959\n≥ 0.95\nExcellent fit\n\n\nRMSEA\n0.047\n≤ 0.05\nExcellent fit\n\n\nRMSEA 90% CI\n[0.045, 0.049]\n≤ 0.08\nExcellent fit\n\n\nSRMR\n0.084\n≤ 0.08\nAcceptable fit"
-  },
-  {
-    "objectID": "results.html#notes",
-    "href": "results.html#notes",
-    "title": "Results",
-    "section": "Notes",
-    "text": "Notes\n\nComplete Results: Download the Results from Multivariate Statistical Analysis\nCodebook: Download Codebook for the Thesis"
-  },
-  {
-    "objectID": "Thesis.html#model-fit-indices-for-confirmatory-factor-analysis",
-    "href": "Thesis.html#model-fit-indices-for-confirmatory-factor-analysis",
-    "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Model Fit Indices for Confirmatory Factor Analysis",
-    "text": "Model Fit Indices for Confirmatory Factor Analysis\n\n\n\nFit Index\nValue\nThreshold\nInterpretation\n\n\nModel χ² (df)\n1778.805 (58)\n-\nGood Fit\n\n\nCFI\n0.978\n≥ 0.95\nExcellent fit\n\n\nTLI\n0.959\n≥ 0.95\nExcellent fit\n\n\nRMSEA\n0.047\n≤ 0.05\nExcellent fit\n\n\nRMSEA 90% CI\n[0.045, 0.049]\n≤ 0.08\nExcellent fit\n\n\nSRMR\n0.084\n≤ 0.08\nAcceptable fit"
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "myechow’s webpage for analyzing the research project",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\n\nThis is a Quarto website, created in RStudio.\n(To learn more about Quarto websites visit https://quarto.org/docs/websites)."
-  },
-  {
-    "objectID": "index.html#myesha-c-iqbals-webpage-for-analyzing-the-masters-thesis-research-project",
-    "href": "index.html#myesha-c-iqbals-webpage-for-analyzing-the-masters-thesis-research-project",
-    "title": "Structural Equation Modeling Research",
-    "section": "",
-    "text": "Title: Predicting Adolescents’ Future Smoking Behavior through Anti-Smoking Ad Exposure\n\n\nThis is a Quarto website, created in RStudio.\n(To learn more about Quarto websites visit https://quarto.org/docs/websites)."
-  },
-  {
-    "objectID": "codebook.html",
-    "href": "codebook.html",
-    "title": "Codebook",
-    "section": "",
-    "text": "Codebook: Download Codebook for the Thesis"
-  },
-  {
     "objectID": "thesis.html",
     "href": "thesis.html",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
@@ -235,21 +18,21 @@
     "href": "thesis.html#key-findings",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
     "section": "Key Findings",
-    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nPBC emerged as the strongest predictor of intention to smoke\nStrong Internal Consistency for all Latent Constructs (psychometrically strong and have great internal alignment).\n\nAttitudes (ATT): CR = 0.93, AVE = 0.82.\nInjunctive Norms (INJ): CR = 0.94, AVE = 0.59.\nDescriptive Norms (DES): CR = 0.89, AVE = 0.53.\n\nADS → INT: Unexpected negative β = –0.283\n\nAdolescents may exhibit message resistance or psychological reactance when they reject academic content perceived as controlling or become desensitized due to repeated exposure.\n\nPBC → SMK: Unexpected positive β = 0.556\n\nAdolescents often overestimate their ability to resist smoking, resulting in overconfidence or cognitive dissonance.\n\nDemographic Insigths:\n\n\n\n\n\n\n\nMales have lower ATT, INT, but higher PBC and DES than females.\nParental presence: higher ATT, DES, and ADS.\n\n\n10th Grade: higher ATT, INT, SMK.\n8th Grade: lower DES and PBC."
+    "text": "Key Findings\n\nAnti-smoking ads significantly influence adolescent beliefs through attitudes, norms, and perceived behavioral control\nHigh internal consistency across TPB constructs (AVE &gt; 0.50, CR &gt; 0.89)\nConfidence in Resisting Smoking emerged as the strongest predictor for Intention to Not Smoke for 5 Years (β = 0.817)\nStrong Internal Consistency for all Latent Constructs (psychometrically strong and have great internal alignment).\n\nAttitudes (ATT): CR = 0.93, AVE = 0.82.\nInjunctive Norms (INJ): CR = 0.94, AVE = 0.59.\nDescriptive Norms (DES): CR = 0.89, AVE = 0.53.\n\nExposure to Anti-Smoking Ads→ Intention to Not Smoke in 5 Years: Unexpected negative β = -0.253\n\nExpected was greater exposure to anti-smoking advertisements is associated with a lower intention to not smoke for the next 5 years.\nAdolescents may exhibit message resistance or psychological reactance when they reject academic content perceived as controlling or become desensitized due to repeated exposure.\n\nConfidence in Resisting Smoking → Smoking status: Unexpected positive β = 0.738\n\nAdolescents often overestimate their ability to resist smoking, resulting in overconfidence or cognitive dissonance.\n\n\n\nDemographic Insigths (Associations):\n\n\n\n\n\n\n\nParental Presence (vs. No Parents Cohabitating):\n\nHigher Exposure to Anti-Smoking Ads.\n\nBlack Adolescents (vs. White Adolescents):\n\nLower Risk Perceptions of Using Tobacco.\nLower Prevalence of Peers Using Tobacco\nLower Intention to Not Smoke for 5 Years\nHigher Confidence in Resisting Smoking.\n\nHispanic Adolescents (vs. White Adolescents):\n\nLower Risk Perceptions of Using Tobacco.\nLower Smoking Status.\n\nMales (vs. females):\n\nLower Risk Perceptions of Using Tobacco\nLower Prevalence of Peers Using Tobacco Grade level (10th compared to 8th):\nHigher Risk Perceptions of Using Tobacco.\nHigher Prevalence of Peers Using Tobacco\nHigher Intention to Not Smoke for 5 Years\nHigher Smoking Status\nLower Peer Disapproval of Smoking."
   },
   {
     "objectID": "thesis.html#sem-constructs",
     "href": "thesis.html#sem-constructs",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
     "section": "SEM Constructs",
-    "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\nConstruct\nDescription\n\n\n\n\nATT\nAttitude toward smoking\n\n\nINJ\nInjunctive Norms\n\n\nDES\nDescriptive Norms\n\n\nPBC\nPerceived Behavioral Control\n\n\nINT\nIntention for Future Smoking\n\n\nSMK\nCurrent Smoking Status\n\n\nADS\nAnti-Smoking Advertisement Exposure"
+    "text": "SEM Constructs\nThe following psycho-cognitive variables were modeled using SEM:\n\n\n\n\n\n\n\n\nConstruct\nItems\nDescription\n\n\n\n\nATT\natt1, att2, att3\nRisk Perceptions of Using Tobacco\n\n\nINJ\ninj1, inj2\nPeer Disapproval of Smoking\n\n\nDES\ndes1, des2\nPrevalence of Peers Using Tobacco\n\n\nPBC\npbc\nConfidence in Resisting Smoking\n\n\nINT\nint\nIntention to Not Smoke in 5 Years\n\n\nSMK\nsmk\nSmoking Status\n\n\nADS\nads\nExposure to Anti-Smoking Advertisements"
   },
   {
-    "objectID": "thesis.html#conceptual-model",
-    "href": "thesis.html#conceptual-model",
+    "objectID": "thesis.html#theoretical-modeling",
+    "href": "thesis.html#theoretical-modeling",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
-    "section": "Conceptual Model",
-    "text": "Conceptual Model"
+    "section": "Theoretical Modeling",
+    "text": "Theoretical Modeling\n\nConceptual Model\n\n\n\nHypothesized Model"
   },
   {
     "objectID": "thesis.html#defense-presentation-slides",
@@ -270,7 +53,7 @@
     "href": "thesis.html#model-fit-indices-for-confirmatory-factor-analysis",
     "title": "Biostatistics Master’s Thesis by Myesha C Iqbal",
     "section": "Model Fit Indices for Confirmatory Factor Analysis",
-    "text": "Model Fit Indices for Confirmatory Factor Analysis\n\n\n\nFit Index\nValue\nThreshold\nInterpretation\n\n\nModel χ² (df)\n1778.805 (58)\n-\nGood Fit\n\n\nCFI\n0.978\n≥ 0.95\nExcellent fit\n\n\nTLI\n0.959\n≥ 0.95\nExcellent fit\n\n\nRMSEA\n0.047\n≤ 0.05\nExcellent fit\n\n\nRMSEA 90% CI\n[0.045, 0.049]\n≤ 0.08\nExcellent fit\n\n\nSRMR\n0.084\n≤ 0.08\nAcceptable fit"
+    "text": "Model Fit Indices for Confirmatory Factor Analysis\n\n\n\n\n\n\n\n\n\nFit Index\nValue\nThreshold\nInterpretation\n\n\nModel χ² (df, p-value)\n1086.447 (58, 0.000)\n-\nGood Fit\n\n\nCFI\n0.975\n≥ 0.95\nExcellent fit\n\n\nTLI\n0.952\n≥ 0.95\nExcellent fit\n\n\nRMSEA\n0.036\n≤ 0.05\nExcellent fit\n\n\nRMSEA 90% CI\n[0.034, 0.038]\n≤ 0.08\nExcellent fit\n\n\nSRMR\n0.084\n≤ 0.08\nAcceptable fit"
   },
   {
     "objectID": "thesis.html#notes",
@@ -287,11 +70,18 @@
     "text": "1. Study Objective\nTo evaluate whether exposure to anti-smoking advertisements influences adolescents’ psycho-cognitive factors, specifically attitudes, subjective norms, and perceived behavioral control, and, through them, affects behavioral intentions and current smoking behavior.\n\n\n\n2. Study Design\n\nDesign Type: Cross-sectional, observational.\nData Source: 2023 Monitoring the Future (MTF) Public-Use Dataset for 8th and 10th grade students.\nSampling Method: Multistage stratified random sampling.\n\n\n\n\n3. Hypotheses\n\nNull Hypothesis (H₀):\nAnti-smoking advertisements have no direct or indirect effect on adolescents’ smoking intentions or behavior, and do not significantly influence psycho-cognitive factors such as attitudes, subjective norms, or perceived behavioral control.\nAlternative Hypothesis (H₁):\nAnti-smoking advertisements influence adolescents’ intentions and behavior directly and indirectly by shaping psycho-cognitive factors.\n\n\n\n\n4. Variables\n\n\n4.1 Latent Constructs\n\n\n\n\n\n\n\n\nConstruct\nIndicators\nDescription\n\n\nAttitudes (ATT)\natt1, att2, att3\nRisk perception measured using a 4-point Likert scale.\n\n\nInjunctive Norms (INJ)\ninj1, inj2\nPerceived peer disapproval measured on a 3-point scale.\n\n\nDescriptive Norms (DES)\ndes1, des2\nPerceptions of peer smoking prevalence and pressure.\n\n\nPerceived Behavioral Control (PBC)\npbc\nSelf-efficacy to resist smoking, measured with a single item.\n\n\nIntention (INT)\nint\nLikelihood of smoking in five years, measured on a 4-point scale.\n\n\nAdvertisement Exposure (ADS)\nads\nBinary indicator for exposure to anti-smoking ads.\n\n\n\n\n\n4.2 Observed Outcome\n\nSmoking Behavior (SMK):\nBinary indicator of cigarette uses in the past 30 days (0 = No, 1 = Yes).\n\n\n\n4.3 Covariates\n\nGender (male, female).\nGrade level (8th grade = 0, 10th grade = 1).\nRace/ethnicity (White as reference category, Black, Hispanic).\nParental presence (neither, father only, mother only, both parents).\n\n\n\n\n5. Data Preparation\n\nRecoding Software: SAS.\nVariables:\n\nAnti-Smoking Ad Exposure: Created from V7701 and V7702 to reflect recent ad exposure as a binary indicator.\nDescriptive Norms: Reverse-coded to indicate lower perceived peer smoking.\nParental Presence: Created by combining V7206 and V7207.\n\nItem Classification: All ordinal indicators were treated as categorical in Mplus.\nMissing Data: Addressed using pairwise deletion during CFA and SEM analyses.\n\n\n\n\n6. Analytical Methods\n\n\n6.1 Software\n\nPlatform: Mplus Version 8.9.\nEstimator: Weighted Least Squares with Mean and Variance (WLSMV).\n\n\n\n6.2 Analysis Plan\nStep 1: Descriptive Statistics\n\nGenerate frequency tables for all model variables and demographic characteristics.\n\nStep 2: Confirmatory Factor Analysis (CFA)\n\nEvaluate the measurement model for ATT, INJ, and DES constructs.\nModel Fit Criteria:\n\nCFI ≥ 0.95\nTLI ≥ 0.95\nRMSEA ≤ 0.06\nSRMR ≤ 0.08\n\nConstruct Validity Criteria:\n\nStandardized factor loadings ≥ 0.50\nComposite Reliability (CR) &gt; 0.70\nAverage Variance Extracted (AVE) &gt; 0.50\n\n\nStep 3: Structural Equation Modeling (SEM)\n\nEstimate path coefficients for:\n\nDirect and indirect effects of ad exposure on intention and behavior.\nRelationships between psycho-cognitive predictors and outcomes.\nAssociations between demographic variables and constructs.\n\nModel Fit: Reassess fit indices for the full structural model.\nExplained Variance (R²): Calculate the proportion of variance explained for both latent and observed variables.\n\n\n\n6.3 Ethical Considerations\n\nThis study uses publicly available, de-identified data and does not require IRB approval.\nThe research complies with MTF and ICPSR data use agreements.\nAll references follow AMA 11th edition guidelines.\nAI was used only for editorial assistance, and results were validated independently.\n\n\n\n\n7. Conclusion\nThis Statistical Analysis Plan outlines a theory-based, methodologically sound framework to examine how anti-smoking advertisement exposure influences adolescent smoking behavior. The use of validated constructs, robust modeling techniques, and national survey data supports the study’s goal of informing targeted public health interventions."
   },
   {
-    "objectID": "sap.html#statistical-analysis-plan-sap",
-    "href": "sap.html#statistical-analysis-plan-sap",
-    "title": "SAP",
-    "section": "",
-    "text": "To evaluate whether exposure to anti-smoking advertisements influences adolescents’ psycho-cognitive factors, specifically attitudes, subjective norms, and perceived behavioral control, and, through them, affects behavioral intentions and current smoking behavior.\n\n\n\n\nDesign Type: Cross-sectional, observational.\nData Source: 2023 Monitoring the Future (MTF) Public-Use Dataset for 8th and 10th grade students.\nSampling Method: Multistage stratified random sampling.\n\n\n\n\n\nNull Hypothesis (H₀):\nAnti-smoking advertisements have no direct or indirect effect on adolescents’ smoking intentions or behavior, and do not significantly influence psycho-cognitive factors such as attitudes, subjective norms, or perceived behavioral control.\nAlternative Hypothesis (H₁):\nAnti-smoking advertisements influence adolescents’ intentions and behavior directly and indirectly by shaping psycho-cognitive factors.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstruct\nIndicators\nDescription\n\n\nAttitudes (ATT)\natt1, att2, att3\nRisk perception measured using a 4-point Likert scale.\n\n\nInjunctive Norms (INJ)\ninj1, inj2\nPerceived peer disapproval measured on a 3-point scale.\n\n\nDescriptive Norms (DES)\ndes1, des2\nPerceptions of peer smoking prevalence and pressure.\n\n\nPerceived Behavioral Control (PBC)\npbc\nSelf-efficacy to resist smoking, measured with a single item.\n\n\nIntention (INT)\nint\nLikelihood of smoking in five years, measured on a 4-point scale.\n\n\nAdvertisement Exposure (ADS)\nads\nBinary indicator for exposure to anti-smoking ads.\n\n\n\n\n\n\n\nSmoking Behavior (SMK):\nBinary indicator of cigarette uses in the past 30 days (0 = No, 1 = Yes).\n\n\n\n\n\nGender (male, female).\nGrade level (8th grade = 0, 10th grade = 1).\nRace/ethnicity (White as reference category, Black, Hispanic).\nParental presence (neither, father only, mother only, both parents).\n\n\n\n\n\nRecoding Software: SAS.\nVariables:\n\nAnti-Smoking Ad Exposure: Created from V7701 and V7702 to reflect recent ad exposure as a binary indicator.\nDescriptive Norms: Reverse-coded to indicate lower perceived peer smoking.\nParental Presence: Created by combining V7206 and V7207.\n\nItem Classification: All ordinal indicators were treated as categorical in Mplus.\nMissing Data: Addressed using pairwise deletion during CFA and SEM analyses.\n\n\n\n\n\n\n\n\nPlatform: Mplus Version 8.9.\nEstimator: Weighted Least Squares with Mean and Variance (WLSMV).\n\n\n\n\nStep 1: Descriptive Statistics\n\nGenerate frequency tables for all model variables and demographic characteristics.\n\nStep 2: Confirmatory Factor Analysis (CFA)\n\nEvaluate the measurement model for ATT, INJ, and DES constructs.\nModel Fit Criteria:\n\nCFI ≥ 0.95\nTLI ≥ 0.95\nRMSEA ≤ 0.06\nSRMR ≤ 0.08\n\nConstruct Validity Criteria:\n\nStandardized factor loadings ≥ 0.50\nComposite Reliability (CR) &gt; 0.70\nAverage Variance Extracted (AVE) &gt; 0.50\n\n\nStep 3: Structural Equation Modeling (SEM)\n\nEstimate path coefficients for:\n\nDirect and indirect effects of ad exposure on intention and behavior.\nRelationships between psycho-cognitive predictors and outcomes.\nAssociations between demographic variables and constructs.\n\nModel Fit: Reassess fit indices for the full structural model.\nExplained Variance (R²): Calculate the proportion of variance explained for both latent and observed variables.\n\n\n\n\n\nThis study uses publicly available, de-identified data and does not require IRB approval.\nThe research complies with MTF and ICPSR data use agreements.\nAll references follow AMA 11th edition guidelines.\nAI was used only for editorial assistance, and results were validated independently.\n\n\n\n\nThis Statistical Analysis Plan outlines a theory-based, methodologically sound framework to examine how anti-smoking advertisement exposure influences adolescent smoking behavior. The use of validated constructs, robust modeling techniques, and national survey data supports the study’s goal of informing targeted public health interventions."
+    "objectID": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-survey-questions",
+    "href": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-survey-questions",
+    "title": "Codebook",
+    "section": "Latent and Observed Constructs with their Indicators and Survey Questions",
+    "text": "Latent and Observed Constructs with their Indicators and Survey Questions"
+  },
+  {
+    "objectID": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-response-scale",
+    "href": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-response-scale",
+    "title": "Codebook",
+    "section": "Latent and Observed Constructs with their Indicators and Response Scale",
+    "text": "Latent and Observed Constructs with their Indicators and Response Scale"
   },
   {
     "objectID": "abstract.html#introduction",
@@ -322,17 +112,24 @@
     "text": "Conclusion\nPsycho-cognitive factors are more influential than anti-smoking ads in predicting adolescents’ smoking behavior. The findings emphasized the significance of involving peer and family influences in prevention strategies. SEM highlights the complex behavioral pathways involved, offering evidence-based recommendations for strengthening early, family-centered interventions to promote a smoke-free future generation."
   },
   {
-    "objectID": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-survey-questions",
-    "href": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-survey-questions",
-    "title": "Codebook",
-    "section": "Latent and Observed Constructs with their Indicators and Survey Questions",
-    "text": "Latent and Observed Constructs with their Indicators and Survey Questions"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Structural Equation Modeling Research",
+    "section": "",
+    "text": "Myesha C Iqbal’s Webpage for Analyzing the Master’s Thesis Research Project\n\nThis Quarto website was created in RStudio."
   },
   {
-    "objectID": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-response-scale",
-    "href": "codebook.html#latent-and-observed-constructs-with-their-indicators-and-response-scale",
-    "title": "Codebook",
-    "section": "Latent and Observed Constructs with their Indicators and Response Scale",
-    "text": "Latent and Observed Constructs with their Indicators and Response Scale"
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "summary",
+    "section": "",
+    "text": "Adolescent smoking prevention remains a cornerstone of public health, particularly as shifting norms, targeted marketing, and access to vaping products have reshaped risk exposure for youth. In my Master of Public Health thesis at Georgia State University, I applied Structural Equation Modeling (SEM) grounded in the Theory of Planned Behavior (TPB) to predict future smoking behavior among 8th and 10th graders using nationally representative data from the 2023 Monitoring the Future (MTF) study.\nSEM enabled a comprehensive view of how behavioral constructs—attitudes toward smoking, injunctive norms, desire, perceived behavioral control (PBC), and behavioral intention—interact to influence actual smoking behavior. Among these, perceived behavioral control and injunctive norms emerged as the most statistically significant protective factors against the initiation of smoking.\nThese findings offer critical insights for real-world public health strategy: rather than treating youth smoking as solely an individual choice, interventions must be designed to shift the social environment and empower behavioral control. This means focusing not only on individual beliefs but also on peer dynamics, the messaging of authority figures, and perceived social approval or disapproval."
+  },
+  {
+    "objectID": "summary.html#leveraging-structural-equation-modeling-to-guide-targeted-interventions-in-youth-tobacco-use",
+    "href": "summary.html#leveraging-structural-equation-modeling-to-guide-targeted-interventions-in-youth-tobacco-use",
+    "title": "summary",
+    "section": "Leveraging Structural Equation Modeling to Guide Targeted Interventions in Youth Tobacco Use",
+    "text": "Leveraging Structural Equation Modeling to Guide Targeted Interventions in Youth Tobacco Use"
   }
 ]
