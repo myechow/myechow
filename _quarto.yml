@@ -20,7 +20,7 @@ website:
         text: Summary
 format:
   html:
-    theme: flatly
+    theme: lumen
     css: styles.css
 publish:
   provider: gh-pages
